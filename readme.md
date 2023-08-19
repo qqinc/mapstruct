@@ -164,3 +164,7 @@ Make sure that you have the [m2e_apt](https://marketplace.eclipse.org/content/m2
 ## Licensing
 
 MapStruct is licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0.
+
+
+
+
